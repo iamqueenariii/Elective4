@@ -1,0 +1,38 @@
+.container-schedule{
+    display: flex;
+    background-color: #004236;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+}
+.inputField{
+    display: flex;
+    left: 0;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.typeinput{
+    width: 500px;
+    height: 50px;
+    z-index: 1;
+}
+.margin{
+    margin-top: 10px;
+}
+.titleSpace{
+    width: 15rem;
+    color: white;
+}
+.container-input{
+    margin-top: 12rem;
+    z-index: 1;
+}
+.btn-back{
+    left: 0;
+    margin-top: -27.5rem;
+    z-index: 1;
+}
+.schedule-button{
+    z-index: 1;
+}
